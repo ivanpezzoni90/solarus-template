@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "c82f7daa-eb0e-4bd3-a9bb-a78f5b28f4d0",
+  title = "Game TBD",
+  short_description = "",
+  long_description = [[
+]],
+  author = "",
+  quest_version = "",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
